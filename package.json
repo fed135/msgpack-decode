@@ -1,0 +1,14 @@
+{
+  "name": "msgpack-decode",
+  "version": "1.0.0",
+  "description": "An msgpack-to-json decoder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "frederic charette <fredericcharette@gmail.com>",
+  "license": "GNU GPL V2",
+  "dependencies": {
+    "msgpack-lite": "0.1.x"
+  }
+}
